@@ -1,2 +1,16 @@
-# article-summary
+# Article Summary
 Practice repository for Agile Software Development class, Spring 2019
+
+## Artcicle to Sumarize
+
+Title: Netflix Has Saved Every Choice You’ve Ever Made in ‘Black Mirror: Bandersnatch'
+
+Link: https://motherboard.vice.com/en_us/article/j57gkk/netflix-has-saved-every-choice-youve-ever-made-in-black-mirror-bandersnatch?utm_source=reddit.com
+
+## Summary
+
+It's no secret that Netflix tracks what its users watch and how long they watch it, but Bandersnatch gave Netflix a unique opportunity to let the streaming giant learn what its users wanted in real time. Michael Veale, a technology policy researcher at University College London, wanted to know what data Netflix was collecting from Bandersnatch.
+
+Users can formally request a company such as Netflix tell them the reason its collecting data, the categories they're sorting data into, third parties it's sharing the data with, and other information. Veale used this right of access to ask Netflix questions about Bandersnatch and revealed the answers in a Twitter thread. He found that Netflix is tracking the decisions its users make, and that it is keeping those decisions long after a user has finished the film.
+
+Veale told me that requesting the data was as easy as sending Netflix an email, but the specifics of getting the information he want were complicated. Netflix didn't tell Veale how long it keeps the data and what the long term deletion plans are. Ultimately, Bandersnatch may seem safe, but what data Netflix scraped from its viewings, how that data is stored, and for how long are all questions users deserve to know.
