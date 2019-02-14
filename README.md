@@ -14,3 +14,8 @@ It's no secret that Netflix tracks what its users watch and how long they watch 
 Users can formally request a company such as Netflix tell them the reason its collecting data, the categories they're sorting data into, third parties it's sharing the data with, and other information. Veale used this right of access to ask Netflix questions about Bandersnatch and revealed the answers in a Twitter thread. He found that Netflix is tracking the decisions its users make, and that it is keeping those decisions long after a user has finished the film.
 
 Veale told me that requesting the data was as easy as sending Netflix an email, but the specifics of getting the information he want were complicated. Netflix didn't tell Veale how long it keeps the data and what the long term deletion plans are. Ultimately, Bandersnatch may seem safe, but what data Netflix scraped from its viewings, how that data is stored, and for how long are all questions users deserve to know.
+
+
+### Nicolas Lopierre Aguirre's comments 
+
+It's very interesting, and sort of relieving to see that one can ask Netflix what are they using our data for. It certainly takes away the whole privacy issue down a smaller scale. I wonder if you can post the link to the Twitter thread that you were talking about. Cheers.
