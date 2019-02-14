@@ -22,3 +22,6 @@ It's very interesting, and sort of relieving to see that one can ask Netflix wha
 ### Charles Dickstein's Comments:
 Perhaps Netflix is working on a way to A|B test films before a wide release. That would be a very innovative 
 way to preview films. 
+
+### Christine Welch's Comments:
+This was very interesting to see the logged information of what seems like a more organic interaction when you watch the episode itself. It doesn't surprise me that Netflix is retaining user data long after occurrence, but it is still disheartenings. Likewise to hear that this information was shared without reluctance only because of the status of the inquiring party.
