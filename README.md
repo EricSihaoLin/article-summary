@@ -19,6 +19,6 @@ Veale told me that requesting the data was as easy as sending Netflix an email, 
 
 It's very interesting, and sort of relieving to see that one can ask Netflix what are they using our data for. It certainly takes away the whole privacy issue down a smaller scale. I wonder if you can post the link to the Twitter thread that you were talking about. Cheers.
 
-### Charles Dickstein's Comments: 
+### Charles Dickstein's Comments:
 Perhaps Netflix is working on a way to A|B test films before a wide release. That would be a very innovative 
 way to preview films. 
